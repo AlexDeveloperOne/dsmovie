@@ -3,7 +3,6 @@ import './style.css';
 
 function Navbar() {
 
-
     return (
         <header>
       <nav className='container'>
