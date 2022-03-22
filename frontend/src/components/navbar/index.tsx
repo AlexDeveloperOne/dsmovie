@@ -4,9 +4,9 @@ import './style.css';
 function Navbar() {
 
     return (
-        <header>
-      <nav className='container'>
-        <div className='dsmovie-nav-content'>
+    <header>
+      <nav className="container">
+        <div className="dsmovie-nav-content>
           <h1>DSMovie</h1>
           <a href="https://github.com/devsuperior">
             <div className='dsmovie-contact-container'>
@@ -20,4 +20,4 @@ function Navbar() {
     );
 }
 
-export default Navbar;
+export default Navbar;  
